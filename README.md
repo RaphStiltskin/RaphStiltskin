@@ -43,7 +43,7 @@ I value structured troubleshooting, secure-by-default configuration, clear docum
 ## Connect
 
 - GitHub: [@RaphStiltskin](https://github.com/RaphStiltskin)
-- LinkedIn: *Add your LinkedIn profile URL*
+- LinkedIn: *www.linkedin.com/in/abdul-rafiu-salif-216051144*
 - Email: *Add a professional email address only if you want it public*
 
 ---
